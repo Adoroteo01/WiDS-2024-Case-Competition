@@ -1,0 +1,30 @@
+@page {
+    margin: 0px;
+    padding: 30px;
+}
+
+/* pre {
+    background-color: #f3f4f6;
+} */
+
+.split-centered {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.align-top {
+    align-items: baseline;
+}
+
+li {
+    padding-bottom: 40px;
+}
+
+math {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
